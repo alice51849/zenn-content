@@ -111,7 +111,7 @@ Business／Enterprise の人もここで確認できます。管理者がユー�
 
 設定は https://github.com/settings/billing の **Budgets and alerts** → **New budget** から行います。
 
-- **Budget Type** で、AI クレジット全体にかける予算か、特定の SKU（たとえば Copilot の AI クレジット）にかける予算かを選ぶ
+- **Budget Type** で、Product-level、SKU-level、Bundled AI credits のいずれかの予算タイプを選ぶ
 - **Receive budget threshold alerts** を選ぶと、予算の **75%・90%・100%** でメールと GitHub 上のバナーで通知される
 - 表示される場合は **Stop usage when budget limit is reached** を選ぶと、予算に達した時点で利用を止められる
 
